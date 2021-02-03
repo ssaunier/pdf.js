@@ -238,7 +238,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "https://d1gofzrmx0fcbg.cloudfront.net/compressed.tracemonkey-pldi-09-1.pdf",
+    value: "https://d1gofzrmx0fcbg.cloudfront.net/Retreat.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
